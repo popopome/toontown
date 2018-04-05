@@ -1,4 +1,4 @@
 
-.hjname > span:first > input {
-  width: 128px;
+.hjname > span > input {
+  width: 8rem;
 }
